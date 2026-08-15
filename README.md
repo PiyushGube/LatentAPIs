@@ -1,6 +1,6 @@
 # 🚀 LatentAPIs — Real-Time API Health & Rate-Limit Monitor
 
-LatencyOps is a high-performance, real-time API health, uptime, and rate-limit alerting monitor built specifically for engineering teams and CTOs.
+LatentAPIs is a high-performance, real-time API health, uptime, and rate-limit alerting monitor built specifically for engineering teams and CTOs.
 
 ## 🛠️ Backend Tech Stack
 
